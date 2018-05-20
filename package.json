@@ -1,0 +1,12 @@
+{
+  "name": "greeklish-to-greek",
+  "version": "1.0.0",
+  "description": "A hackish way to translate greeklish to greek using "Did you mean" services",
+  "main": "didYouMean.js",
+  "author": "DMCode",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.85.0"
+  }
+}
